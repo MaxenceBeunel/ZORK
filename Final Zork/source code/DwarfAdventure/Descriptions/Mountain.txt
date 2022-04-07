@@ -1,0 +1,2 @@
+Here is the entrance to the mountain, but it's too dark.
+You need to use a torch every time you go to a new room.

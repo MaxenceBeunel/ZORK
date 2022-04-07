@@ -1,0 +1,2 @@
+You discover a forge, an anvil and a furnace are at your disposal.
+Try to bring some materials (5 coals, 5 bronzes, 5 silvers, 5 golds) if you want to build something.
